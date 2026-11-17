@@ -1,0 +1,3 @@
+[submodule "governance"]
+	path = governance
+	url = https://github.com/Denson-Group/Project-structure-outline.git
